@@ -1,0 +1,16 @@
+user_gene_set	property_gene_set	universe_count	user_count	property_count	overlap_count	pval
+LM.1.mod.19	LM.1.mod.20	2004	242	217	0	0
+LM.1.mod.20	LM.1.mod.28	2004	217	181	0	0
+LM.1.mod.28	LM.1.mod.29	2004	181	329	0	0
+LM.1.mod.28	LM.1.mod.31	2004	181	192	0	0
+LM.1.mod.29	LM.1.mod.31	2004	329	192	0	0
+LM.1.mod.19	LM.1.mod.31	2004	242	192	4	9.72e-09
+LM.1.mod.20	LM.1.mod.29	2004	217	329	42	0.893
+LM.1.mod.19	LM.1.mod.29	2004	242	329	66	5.48
+LM.1.mod.19	LM.1.mod.28	2004	242	181	171	174
+LM.1.mod.20	LM.1.mod.31	2004	217	192	172	180
+LM.1.mod.28	LM.1.mod.28	2004	181	181	181	262
+LM.1.mod.31	LM.1.mod.31	2004	192	192	192	273
+LM.1.mod.20	LM.1.mod.20	2004	217	217	217	297
+LM.1.mod.19	LM.1.mod.19	2004	242	242	242	300
+LM.1.mod.29	LM.1.mod.29	2004	329	329	329	300
