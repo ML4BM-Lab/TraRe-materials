@@ -1,0 +1,7 @@
+Normalized XOR Sum	Cliques
+CEBPE	0.707	
+GATA1	1	
+KLF1	0.896	
+NFE2	0.76	
+STAT5B	1	
+ZNF594	1	
