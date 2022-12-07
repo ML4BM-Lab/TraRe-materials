@@ -1,0 +1,7 @@
+{
+    "ELK3" : ["SEPP1", "FAM65A", "TAX1BP3", "NCK1", "SH3BP5", "ARL15", "ACTN4", "ARL10", "RAPGEF1", "PIK3CA", "MAP3K12", "CLASP1", "DUSP18", "MYO18A", "SRGAP2P2", "RAB11B"],
+    "MXD1" : ["KEL", "GCA", "EPB49", "SEPX1", "MMP25", "PTPN6", "HBQ1"],
+    "MYB" : ["GCA", "ITGA2B", "ERMAP", "NRGN", "SEPX1", "FAM178B", "HBQ1"],
+    "ZNF91" :["RSBN1", "GEMIN5", "MACROD2"],
+    "ZNF3" : ["C7orf59", "LRRC27", "DTX2", "PSMG3", "NUDCD3", "STYXL1"]
+}
